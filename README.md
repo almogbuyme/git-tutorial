@@ -1,5 +1,7 @@
 # git-tutorial
 some edit
-dfsdsfdsf
+00000000000000
 sdf234
 ewr
+
+changes done in 'almog branch'
